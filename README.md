@@ -1,2 +1,2 @@
 # first-test
-just mine project's test
+just my first project's test
